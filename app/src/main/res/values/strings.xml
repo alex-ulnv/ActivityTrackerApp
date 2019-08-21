@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ActivityTracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="first_start_notification_title">Welcome</string>
+    <string name="first_start_notification_message">It seems that you are starting the app for the first time. You can train it to detect your personal walking pattern, or accept the default settings.</string>
+    <string name="first_start_notification_train_bttn">Train</string>
+    <string name="first_start_notification_accept_default">Accept Defaults</string>
+    <string name="running_threshold_updated">Running threshold is updated</string>
+    <string name="training_instructions">Click the start button, start walking. After the 3rd beep - the intervals between your walking steps will be recorded; after the 4th beep - the intervals between your running steps.</string>
+    <string name="start_button">Start</string>
+    <string name="update_threshold_button">Update Threshold</string>
+    <string name="your_new_threshold">Your new threshold: </string>
+    <string name="sensor_not_available">Sensor is not available</string>
+</resources>
